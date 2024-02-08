@@ -1,0 +1,138 @@
+ [
+      {
+        "installationAddress": {
+          "addressType": ["Physical"],
+          "unitType": ["Apartment"],
+          "unitNumber": 25,
+          "streetNumber": null,
+          "streetName": "Atulya Bunglows",
+          "streetType": "DRIVE",
+          "suburb": "Adelaide",
+          "state": "SA",
+          "postCode": 5000
+        },
+        "installationDetails": {
+          "installationType": ["FirstTime"],
+          "newPanelLocation": "",
+          "kilowatt": null,
+          "remarks": "",
+          "CECAccereditetionSystem": false,
+          "territoryGovermentApproval": false,
+          "electricalSafetyDoc": false,
+          "AusNZStandardStatement": false
+        },
+        "postalAddress": {
+          "POBox": {
+            "POBoxNo": null,
+            "postalCode": null
+          },
+          "POAddress": {
+            "unitNumber": null,
+            "streetNumber": null,
+            "streetName": "",
+            "streetType": "",
+            "suburb": "",
+            "state": "",
+            "postCode": 5023
+          }
+        },
+        "customerDetails": {
+          "firstName": "Foram",
+          "lastName": "Talpada",
+          "mobileNum": 9475918382,
+          "phoneNumber": 9463736482,
+          "emailId": "foram@gmail.com",
+          "ABN": 64783891281,
+          "isGST": true
+        },
+        "coOwnerDetail": {
+          "firstName": "",
+          "lastName": "",
+          "relationWithOwner": ""
+        },
+        "installationDate": {
+          "installingDate": "2024-03-31T00:00:00.000Z",
+          "STCDeemingPeriod": 7,
+          "mountingType": ["Building"]
+        },
+        "gridConnectionDetail": {
+          "gridConnected": false,
+          "systemType": [],
+          "NMI": null,
+          "gridAppReferenceNo": "",
+          "meterNum": null,
+          "distributor": ""
+        },
+        "panelDetail": {
+          "panelInfo": {
+            "panelWarrantyDetails": {
+              "warrantyYear": 15,
+              "warrantyDescription": "Physical Damage"
+            },
+            "panelBrand": "1KOMMA5° Technology GmbH",
+            "panelModel": "1KOMMA5°-Fullblack-01-420",
+            "panelSupplier": "",
+            "panelPower": 420,
+            "Quantity": 15,
+            "isAssignPanelJob": true
+          }
+        },
+
+        "inverterDetail": {
+          "inverterInfo": {
+            "inverterWarrantyDetails": {
+              "warrantyYear": 15,
+              "warrantyDescription": "Physical Damage"
+            },
+            "inverterBrand": "iStore (QLD) Pty Ltd",
+            "inverterModel": "IS-HYB-5000-1PH (AS4777-2 2020)",
+            "inverterSupplier": "",
+            "inverterSeries": "IS-HYB-1PH",
+            "Quantity": 1
+          }
+        },
+        
+        "batteryDetail": {
+          "batteryInfo": {
+            "batteryWarrantyDetails": {
+              "warrantyYear": 15,
+              "warrantyDescription": "Physical Damage"
+            },
+            "manufacturer": "",
+            "batteryBrand": "Exide",
+            "batteryModel": "LIBS048150-G03",
+            "Quantity": 5,
+            "batterySystemAggerigate": true,
+            "defaultManufacturerBatteryStorage": false
+          }
+        },
+        "additionalDetails": {
+          "jobReferenceNumber": "2e42424242e242",
+          "currentEnergyRetailer": "267346624642",
+          "WillThereBeAnyOptimisesInstalled": false,
+          "Roof": ["Tile"],
+          "Story": ["Multi"],
+          "panelType": ["Both"],
+          "phase": ["Three"]
+        },
+        "_id": "65c2ab4697f74728d",
+        "installingFor": ["Trustee"],
+        "systemOwnerType": ["Residential"],
+        "installationTeam": ["Installer", "Designer", "Electrician"],
+        "instructionForInstallation": "",
+        "design": null,
+        "customInvoice": null,
+        "uploadElectricityBill": null,
+        "statusCode": 0,
+        "statusDescription": "default",
+        "userId": "65af56a89e9",
+        "installers": [],
+        "designers": [],
+        "electricians": [],
+        "installerName": "Dhruv Patel",
+        "designerName": "Dhruv Patel",
+        "electricianName": "Dhruv Patel",
+        "creationDate": "2024-02-06T16:00:27.139Z",
+        "__v": 0
+      }
+    ],

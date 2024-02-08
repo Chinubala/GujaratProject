@@ -1,0 +1,683 @@
+[
+    [
+      {
+        "installationAddress": {
+          "addressType": ["Physical"],
+          "unitType": ["Antenna"],
+          "unitNumber": 20,
+          "streetNumber": null,
+          "streetName": "Saptak Bunglows",
+          "streetType": "AVENUE",
+          "suburb": "Sydney",
+          "state": "NSW",
+          "postCode": 5000
+        },
+        "installationDetails": {
+          "installationType": ["FirstTime"],
+          "newPanelLocation": "",
+          "kilowatt": null,
+          "remarks": "",
+          "CECAccereditetionSystem": false,
+          "territoryGovermentApproval": false,
+          "electricalSafetyDoc": false,
+          "AusNZStandardStatement": false
+        },
+        "postalAddress": {
+          "POBox": {
+            "POBoxNo": 123,
+            "postalCode": 5023
+          },
+          "POAddress": {
+            "unitNumber": null,
+            "streetNumber": null,
+            "streetName": "",
+            "streetType": "",
+            "suburb": "",
+            "state": "",
+            "postCode": null
+          }
+        },
+        "customerDetails": {
+          "firstName": "Dhruv",
+          "lastName": "Patel",
+          "mobileNum": 9823545721,
+          "phoneNumber": 1234567890,
+          "emailId": "dhruv@gmail.com",
+          "ABN": 123456789,
+          "isGST": null
+        },
+        "coOwnerDetail": {
+          "firstName": "Princy",
+          "lastName": "Patel",
+          "relationWithOwner": "Sister"
+        },
+        "installationDate": {
+          "installingDate": "2024-02-29T00:00:00.000Z",
+          "STCDeemingPeriod": 6,
+          "mountingType": ["GroundMounted"]
+        },
+        "gridConnectionDetail": {
+          "gridConnected": false,
+          "systemType": [],
+          "NMI": null,
+          "gridAppReferenceNo": "",
+          "meterNum": null,
+          "distributor": ""
+        },
+        "panelDetail": {
+          "panelInfo": {
+            "panelWarrantyDetails": {
+              "warrantyYear": 10,
+              "warrantyDescription": "Not Valid for Act of God"
+            },
+            "panelBrand": "Jinko Solar Co Ltd",
+            "panelModel": "JKM310M-60HB",
+            "panelSupplier": "",
+            "panelPower": 310,
+            "Quantity": 11,
+            "isAssignPanelJob": false
+          }
+        },
+        "inverterDetail": {
+          "inverterInfo": {
+            "inverterWarrantyDetails": {
+              "warrantyYear": 10,
+              "warrantyDescription": "Not Valid for Act of God"
+            },
+            "inverterBrand": "Jinko Solar Co Ltd",
+            "inverterModel": "JKS-3HLVS-GI (AS4777-2 2020)",
+            "inverterSupplier": "",
+            "inverterSeries": "JKS series",
+            "Quantity": 0
+          }
+        },
+        "batteryDetail": {
+          "batteryInfo": {
+            "batteryWarrantyDetails": {
+              "warrantyYear": 10,
+              "warrantyDescription": "Not Valid for Act of God"
+            },
+            "manufacturer": "",
+            "batteryBrand": "JINKO",
+            "batteryModel": "JKS-B51100-GI",
+            "Quantity": 12,
+            "batterySystemAggerigate": false,
+            "defaultManufacturerBatteryStorage": true
+          }
+        },
+        "additionalDetails": {
+          "jobReferenceNumber": "123456789",
+          "currentEnergyRetailer": "123456789",
+          "WillThereBeAnyOptimisesInstalled": false,
+          "Roof": ["Tile"],
+          "Story": ["Multi"],
+          "panelType": ["Both"],
+          "phase": ["Single"]
+        },
+        "_id": "65cc513801994c5ab",
+        "installingFor": ["Individual"],
+        "systemOwnerType": ["Residential"],
+        "installationTeam": ["Installer", "Designer", "Electrician"],
+        "instructionForInstallation": "",
+        "design": null,
+        "customInvoice": null,
+        "uploadElectricityBill": null,
+        "statusCode": 0,
+        "statusDescription": "default",
+        "userId": "65af56a8b3403649b29e9",
+        "installers": [],
+        "designers": [],
+        "electricians": [],
+        "installerName": "Maharsh Khamar",
+        "designerName": "Maharsh Khamar",
+        "electricianName": "Maharsh Khamar",
+        "creationDate": "2024-02-06T13:18:20.418Z",
+        "__v": 0
+      }
+    ],
+    [
+      {
+        "installationAddress": {
+          "addressType": ["Physical"],
+          "unitType": ["Apartment"],
+          "unitNumber": 53,
+          "streetNumber": 11,
+          "streetName": "Shaligram Bunglows",
+          "streetType": "STREET",
+          "suburb": "Brisbane",
+          "state": "QLD",
+          "postCode": 4000
+        },
+        "installationDetails": {
+          "installationType": ["Replacement"],
+          "newPanelLocation": "",
+          "kilowatt": null,
+          "remarks": "",
+          "CECAccereditetionSystem": false,
+          "territoryGovermentApproval": false,
+          "electricalSafetyDoc": false,
+          "AusNZStandardStatement": false
+        },
+        "postalAddress": {
+          "POBox": {
+            "POBoxNo": null,
+            "postalCode": null
+          },
+          "POAddress": {
+            "unitNumber": null,
+            "streetNumber": null,
+            "streetName": "",
+            "streetType": "",
+            "suburb": "",
+            "state": "",
+            "postCode": 4000
+          }
+        },
+        "customerDetails": {
+          "firstName": "Maharsh",
+          "lastName": "Khamar",
+          "mobileNum": 7043624181,
+          "phoneNumber": 7043624181,
+          "emailId": "mkhamar01@gmail.com",
+          "ABN": 51213213111,
+          "isGST": null
+        },
+        "coOwnerDetail": {
+          "firstName": "Vyom",
+          "lastName": "Khamar",
+          "relationWithOwner": "Brother"
+        },
+        "installationDate": {
+          "installingDate": "2024-02-24T00:00:00.000Z",
+          "STCDeemingPeriod": 5,
+          "mountingType": ["FreeStanding"]
+        },
+        "gridConnectionDetail": {
+          "gridConnected": false,
+          "systemType": [],
+          "NMI": null,
+          "gridAppReferenceNo": "",
+          "meterNum": null,
+          "distributor": ""
+        },
+        "panelDetail": {
+          "panelInfo": {
+            "panelWarrantyDetails": {
+              "warrantyYear": 10,
+              "warrantyDescription": "Nothing"
+            },
+            "panelBrand": "Tempo (Aust) Pty Ltd",
+            "panelModel": "AKE-450B-PV-MHO",
+            "panelSupplier": "",
+            "panelPower": 450,
+            "Quantity": 15,
+            "isAssignPanelJob": false
+          }
+        },
+        "inverterDetail": {
+          "inverterInfo": {
+            "inverterWarrantyDetails": {
+              "warrantyYear": 10,
+              "warrantyDescription": "Nothing"
+            },
+            "inverterBrand": "",
+            "inverterModel": "AC Powerwall (AS4777-2 2020)",
+            "inverterSupplier": "",
+            "inverterSeries": "Powerwall",
+            "Quantity": 2
+          }
+        },
+        "batteryDetail": {
+          "batteryInfo": {
+            "batteryWarrantyDetails": {
+              "warrantyYear": 10,
+              "warrantyDescription": "Nothing"
+            },
+            "manufacturer": "",
+            "batteryBrand": "Tesla",
+            "batteryModel": "AC Powerwall (AS4777-2 2020)",
+            "Quantity": 9,
+            "batterySystemAggerigate": true,
+            "defaultManufacturerBatteryStorage": false
+          }
+        },
+        "additionalDetails": {
+          "jobReferenceNumber": "2342347324624716",
+          "currentEnergyRetailer": "837461546561235",
+          "WillThereBeAnyOptimisesInstalled": true,
+          "Roof": ["colorBond"],
+          "Story": ["Single"],
+          "panelType": ["Mono"],
+          "phase": ["Single"]
+        },
+        "_id": "65c2327d513801ad9",
+        "installingFor": ["CorporateBody"],
+        "systemOwnerType": ["Commercial"],
+        "installationTeam": ["Installer", "Designer", "Electrician"],
+        "instructionForInstallation": "",
+        "design": null,
+        "customInvoice": null,
+        "uploadElectricityBill": null,
+        "statusCode": 0,
+        "statusDescription": "default",
+        "userId": "65b340c364579b29e9",
+        "installers": [],
+        "designers": [],
+        "electricians": [],
+        "installerName": "Foram Talpada",
+        "designerName": "Foram Talpada",
+        "electricianName": "Foram Talpada",
+        "creationDate": "2024-02-06T13:22:05.732Z",
+        "__v": 0
+      }
+    ],
+    [
+      {
+        "installationAddress": {
+          "addressType": ["Physical"],
+          "unitType": ["Block"],
+          "unitNumber": 201,
+          "streetNumber": null,
+          "streetName": "Pehel Apartment",
+          "streetType": "ARCADE",
+          "suburb": "Melbourne",
+          "state": "VIC",
+          "postCode": 3000
+        },
+        "installationDetails": {
+          "installationType": ["FirstTime"],
+          "newPanelLocation": "",
+          "kilowatt": null,
+          "remarks": "",
+          "CECAccereditetionSystem": false,
+          "territoryGovermentApproval": false,
+          "electricalSafetyDoc": false,
+          "AusNZStandardStatement": false
+        },
+        "postalAddress": {
+          "POBox": {
+            "POBoxNo": null,
+            "postalCode": null
+          },
+          "POAddress": {
+            "unitNumber": null,
+            "streetNumber": null,
+            "streetName": "",
+            "streetType": "",
+            "suburb": "",
+            "state": "",
+            "postCode": 3000
+          }
+        },
+        "customerDetails": {
+          "firstName": "Rinkal",
+          "lastName": "Dobariya",
+          "mobileNum": 56381946284,
+          "phoneNumber": 12132423525,
+          "emailId": "rinkal111@gmail.com",
+          "ABN": 12345643212,
+          "isGST": true
+        },
+        "coOwnerDetail": {
+          "firstName": "",
+          "lastName": "",
+          "relationWithOwner": ""
+        },
+        "installationDate": {
+          "installingDate": "2024-02-26T00:00:00.000Z",
+          "STCDeemingPeriod": 3,
+          "mountingType": ["Building"]
+        },
+        "gridConnectionDetail": {
+          "gridConnected": false,
+          "systemType": [],
+          "NMI": null,
+          "gridAppReferenceNo": "",
+          "meterNum": null,
+          "distributor": ""
+        },
+        "panelDetail": {
+          "panelInfo": {
+            "panelWarrantyDetails": {
+              "warrantyYear": 5,
+              "warrantyDescription": "5 Years"
+            },
+            "panelBrand": "8 Star Energy Pty Ltd",
+            "panelModel": "ENSP54MBL2400BF",
+            "panelSupplier": "",
+            "panelPower": 400,
+            "Quantity": 20,
+            "isAssignPanelJob": false
+          }
+        },
+        "inverterDetail": {
+          "inverterInfo": {
+            "inverterWarrantyDetails": {
+              "warrantyYear": 5,
+              "warrantyDescription": "5 Years"
+            },
+            "inverterBrand": "8 Star Energy Pty Ltd",
+            "inverterModel": "Force 10.5S (AS4777-2 2020)",
+            "inverterSupplier": "",
+            "inverterSeries": "Energizer Solar Force S Series",
+            "Quantity": 1
+          }
+        },
+        "batteryDetail": {
+          "batteryInfo": {
+            "batteryWarrantyDetails": {
+              "warrantyYear": 5,
+              "warrantyDescription": "5 Years"
+            },
+            "manufacturer": "",
+            "batteryBrand": "JINKO",
+            "batteryModel": "JKS-B51100-BI",
+            "Quantity": 5,
+            "batterySystemAggerigate": false,
+            "defaultManufacturerBatteryStorage": false
+          }
+        },
+        "additionalDetails": {
+          "jobReferenceNumber": "",
+          "currentEnergyRetailer": "",
+          "WillThereBeAnyOptimisesInstalled": true,
+          "Roof": ["Tile"],
+          "Story": ["Multi"],
+          "panelType": ["Poly"],
+          "phase": ["Three"]
+        },
+        "_id": "65c801994c51d157",
+        "installingFor": ["GovermentBody"],
+        "systemOwnerType": ["Commercial"],
+        "installationTeam": ["Installer", "Designer", "Electrician"],
+        "instructionForInstallation": "",
+        "design": null,
+        "customInvoice": null,
+        "uploadElectricityBill": null,
+        "statusCode": 0,
+        "statusDescription": "default",
+        "userId": "65af56a8b340ce9",
+        "installers": [],
+        "designers": [],
+        "electricians": [],
+        "installerName": "Alpesh Raval",
+        "designerName": "Alpesh Raval",
+        "electricianName": "Alpesh Raval",
+        "creationDate": "2024-02-06T13:27:15.685Z",
+        "__v": 0
+      }
+    ],
+    [
+      {
+        "installationAddress": {
+          "addressType": ["Physical"],
+          "unitType": ["Apartment"],
+          "unitNumber": 25,
+          "streetNumber": null,
+          "streetName": "Atulya Bunglows",
+          "streetType": "DRIVE",
+          "suburb": "Adelaide",
+          "state": "SA",
+          "postCode": 5000
+        },
+        "installationDetails": {
+          "installationType": ["FirstTime"],
+          "newPanelLocation": "",
+          "kilowatt": null,
+          "remarks": "",
+          "CECAccereditetionSystem": false,
+          "territoryGovermentApproval": false,
+          "electricalSafetyDoc": false,
+          "AusNZStandardStatement": false
+        },
+        "postalAddress": {
+          "POBox": {
+            "POBoxNo": null,
+            "postalCode": null
+          },
+          "POAddress": {
+            "unitNumber": null,
+            "streetNumber": null,
+            "streetName": "",
+            "streetType": "",
+            "suburb": "",
+            "state": "",
+            "postCode": 5023
+          }
+        },
+        "customerDetails": {
+          "firstName": "Foram",
+          "lastName": "Talpada",
+          "mobileNum": 9475918382,
+          "phoneNumber": 9463736482,
+          "emailId": "foram@gmail.com",
+          "ABN": 64783891281,
+          "isGST": true
+        },
+        "coOwnerDetail": {
+          "firstName": "",
+          "lastName": "",
+          "relationWithOwner": ""
+        },
+        "installationDate": {
+          "installingDate": "2024-03-31T00:00:00.000Z",
+          "STCDeemingPeriod": 7,
+          "mountingType": ["Building"]
+        },
+        "gridConnectionDetail": {
+          "gridConnected": false,
+          "systemType": [],
+          "NMI": null,
+          "gridAppReferenceNo": "",
+          "meterNum": null,
+          "distributor": ""
+        },
+        "panelDetail": {
+          "panelInfo": {
+            "panelWarrantyDetails": {
+              "warrantyYear": 15,
+              "warrantyDescription": "Physical Damage"
+            },
+            "panelBrand": "1KOMMA5° Technology GmbH",
+            "panelModel": "1KOMMA5°-Fullblack-01-420",
+            "panelSupplier": "",
+            "panelPower": 420,
+            "Quantity": 15,
+            "isAssignPanelJob": true
+          }
+        },
+        "inverterDetail": {
+          "inverterInfo": {
+            "inverterWarrantyDetails": {
+              "warrantyYear": 15,
+              "warrantyDescription": "Physical Damage"
+            },
+            "inverterBrand": "iStore (QLD) Pty Ltd",
+            "inverterModel": "IS-HYB-5000-1PH (AS4777-2 2020)",
+            "inverterSupplier": "",
+            "inverterSeries": "IS-HYB-1PH",
+            "Quantity": 1
+          }
+        },
+        "batteryDetail": {
+          "batteryInfo": {
+            "batteryWarrantyDetails": {
+              "warrantyYear": 15,
+              "warrantyDescription": "Physical Damage"
+            },
+            "manufacturer": "",
+            "batteryBrand": "Exide",
+            "batteryModel": "LIBS048150-G03",
+            "Quantity": 5,
+            "batterySystemAggerigate": true,
+            "defaultManufacturerBatteryStorage": false
+          }
+        },
+        "additionalDetails": {
+          "jobReferenceNumber": "2e42424242e242",
+          "currentEnergyRetailer": "267346624642",
+          "WillThereBeAnyOptimisesInstalled": false,
+          "Roof": ["Tile"],
+          "Story": ["Multi"],
+          "panelType": ["Both"],
+          "phase": ["Three"]
+        },
+        "_id": "65c2ab4697f74728d",
+        "installingFor": ["Trustee"],
+        "systemOwnerType": ["Residential"],
+        "installationTeam": ["Installer", "Designer", "Electrician"],
+        "instructionForInstallation": "",
+        "design": null,
+        "customInvoice": null,
+        "uploadElectricityBill": null,
+        "statusCode": 0,
+        "statusDescription": "default",
+        "userId": "65af56a89e9",
+        "installers": [],
+        "designers": [],
+        "electricians": [],
+        "installerName": "Dhruv Patel",
+        "designerName": "Dhruv Patel",
+        "electricianName": "Dhruv Patel",
+        "creationDate": "2024-02-06T16:00:27.139Z",
+        "__v": 0
+      }
+    ],
+    [
+      {
+        "installationAddress": {
+          "addressType": ["Physical"],
+          "unitType": ["Boatshed"],
+          "unitNumber": 15,
+          "streetNumber": 12,
+          "streetName": "Alpvihar",
+          "streetType": "ARCADE",
+          "suburb": "Perth",
+          "state": "WA",
+          "postCode": 6000
+        },
+        "installationDetails": {
+          "installationType": ["Replacement"],
+          "newPanelLocation": "",
+          "kilowatt": null,
+          "remarks": "",
+          "CECAccereditetionSystem": false,
+          "territoryGovermentApproval": false,
+          "electricalSafetyDoc": false,
+          "AusNZStandardStatement": false
+        },
+        "postalAddress": {
+          "POBox": {
+            "POBoxNo": null,
+            "postalCode": null
+          },
+          "POAddress": {
+            "unitNumber": null,
+            "streetNumber": null,
+            "streetName": "",
+            "streetType": "",
+            "suburb": "",
+            "state": "",
+            "postCode": 6023
+          }
+        },
+        "customerDetails": {
+          "firstName": "Alpesh",
+          "lastName": "Raval",
+          "mobileNum": 41746124864,
+          "phoneNumber": 4242144124,
+          "emailId": "alpesh@gmail.com",
+          "ABN": 41746147264,
+          "isGST": true
+        },
+        "coOwnerDetail": {
+          "firstName": "Sanjay",
+          "lastName": "Raval",
+          "relationWithOwner": "Friend"
+        },
+        "installationDate": {
+          "installingDate": "2024-03-09T00:00:00.000Z",
+          "STCDeemingPeriod": 7,
+          "mountingType": ["FreeStanding"]
+        },
+        "gridConnectionDetail": {
+          "gridConnected": false,
+          "systemType": [],
+          "NMI": null,
+          "gridAppReferenceNo": "",
+          "meterNum": null,
+          "distributor": ""
+        },
+        "panelDetail": {
+          "panelInfo": {
+            "panelWarrantyDetails": {
+              "warrantyYear": 4,
+              "warrantyDescription": "4 Years"
+            },
+            "panelBrand": "Tempo (Aust) Pty Ltd",
+            "panelModel": "AKE-540B-PV-MHO",
+            "panelSupplier": "",
+            "panelPower": 540,
+            "Quantity": 15,
+            "isAssignPanelJob": false
+          }
+        },
+        "inverterDetail": {
+          "inverterInfo": {
+            "inverterWarrantyDetails": {
+              "warrantyYear": 4,
+              "warrantyDescription": "4 Years"
+            },
+            "inverterBrand": "Global Connections Group Pty Ltd T/A Aquila power",
+            "inverterModel": "AP20",
+            "inverterSupplier": "",
+            "inverterSeries": "Aquila Power",
+            "Quantity": 1
+          }
+        },
+        "batteryDetail": {
+          "batteryInfo": {
+            "batteryWarrantyDetails": {
+              "warrantyYear": 4,
+              "warrantyDescription": "4 Years"
+            },
+            "manufacturer": "",
+            "batteryBrand": "FRANKLINWH",
+            "batteryModel": "aPower X-01-AU (AS4777-2 2020)",
+            "Quantity": 7,
+            "batterySystemAggerigate": true,
+            "defaultManufacturerBatteryStorage": true
+          }
+        },
+        "additionalDetails": {
+          "jobReferenceNumber": "41351664643643",
+          "currentEnergyRetailer": "55245245435235",
+          "WillThereBeAnyOptimisesInstalled": true,
+          "Roof": ["colorBond"],
+          "Story": ["Single"],
+          "panelType": ["Poly"],
+          "phase": ["Two"]
+        },
+        "_id": "65c258c6e02ab469739",
+        "installingFor": ["GovermentBody"],
+        "systemOwnerType": ["Residential"],
+        "installationTeam": ["Installer", "Designer", "Electrician"],
+        "instructionForInstallation": "",
+        "design": null,
+        "customInvoice": null,
+        "uploadElectricityBill": null,
+        "statusCode": 0,
+        "statusDescription": "default",
+        "userId": "65af5364579b29e9",
+        "installers": [],
+        "designers": [],
+        "electricians": [],
+        "installerName": "Foram Talpada",
+        "designerName": "Foram Talpada",
+        "electricianName": "Foram Talpada",
+        "creationDate": "2024-02-06T16:05:26.814Z",
+        "__v": 1
+      }
+    ]
+  ]
+  
